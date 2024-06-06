@@ -2,219 +2,13 @@
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 1</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462550000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 2</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462575000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 3</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462600000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 4</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462625000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 5</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462650000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 6</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462675000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 7</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462700000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Channel 8</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462725000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 15</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462550000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 16</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462575000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 17</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462600000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 18</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462625000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 19</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462650000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 20</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462675000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 21</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462700000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>GMRS Repeater 22</Name>
-    <GroupName>GMRS Frequencies</GroupName>
-    <Frequency>462725000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  
-
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 1</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162400000</Frequency>
-    <DetectorType>NFM</DetectorType>
+    <Name>KBRK 1430 AM</Name>
+    <GroupName>AM Radio Stations</GroupName>
+    <Frequency>1430000</Frequency>
+    <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 2</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162425000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 3</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162450000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 4</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162475000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 5</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162500000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 6</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162525000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>NOAA Weather Radio Channel 7</Name>
-    <GroupName>NOAA Weather Radio</GroupName>
-    <Frequency>162550000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-
-
-  
-  
-  
-
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
     <Name>CB Channel 1</Name>
@@ -415,15 +209,6 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>CB Channel 23</Name>
-    <GroupName>CB Radio</GroupName>
-    <Frequency>27255000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
     <Name>CB Channel 24</Name>
     <GroupName>CB Radio</GroupName>
     <Frequency>27235000</Frequency>
@@ -436,6 +221,15 @@
     <Name>CB Channel 25</Name>
     <GroupName>CB Radio</GroupName>
     <Frequency>27245000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CB Channel 23</Name>
+    <GroupName>CB Radio</GroupName>
+    <Frequency>27255000</Frequency>
     <DetectorType>AM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
@@ -575,13 +369,218 @@
     <Shift>0</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
-
-  
-   <MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Amateur Radio - 10m Calling Frequency</Name>
+    <GroupName>Amateur Radio</GroupName>
+    <Frequency>28400000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Amateur Radio - 6m Calling Frequency</Name>
+    <GroupName>Amateur Radio</GroupName>
+    <Frequency>52050000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>SDPB 88.3</Name>
+    <GroupName>FM Radio Stations</GroupName>
+    <Frequency>88300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>200000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>KSDJ-FM 90.7 FM</Name>
+    <GroupName>FM Radio Stations</GroupName>
+    <Frequency>90700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>200000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>KBRK-FM 93.7 FM</Name>
+    <GroupName>FM Radio Stations</GroupName>
+    <Frequency>93700000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>200000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>KCOUNTRY 102.3</Name>
+    <GroupName>FM Radio Stations</GroupName>
+    <Frequency>102300000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>200000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Air Band - Tower</Name>
+    <GroupName>Air Band</GroupName>
+    <Frequency>118700000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Air Band - Ground</Name>
+    <GroupName>Air Band</GroupName>
+    <Frequency>121900000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Air Band - ATIS</Name>
+    <GroupName>Air Band</GroupName>
+    <Frequency>128800000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NOAA 19</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>137100000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>50010</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NOAA 15</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>137620000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>50010</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NOAA 18</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>137912500</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>50010</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Amateur Radio - APRS</Name>
+    <GroupName>Amateur Radio</GroupName>
+    <Frequency>144390000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Amateur Radio - 2m Calling Frequency</Name>
+    <GroupName>Amateur Radio</GroupName>
+    <Frequency>146520000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Brooking Amateur Radio Club</Name>
+    <GroupName>Amateur Radio</GroupName>
+    <Frequency>146940700</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>MURS Channel 1</Name>
+    <GroupName>MURS Radio</GroupName>
+    <Frequency>151820000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>MURS Channel 2</Name>
+    <GroupName>MURS Radio</GroupName>
+    <Frequency>151880000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>MURS Channel 3</Name>
+    <GroupName>MURS Radio</GroupName>
+    <Frequency>151940000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Brookings Fire Dept.</Name>
+    <GroupName>Public Safety</GroupName>
+    <Frequency>154025000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>Brookings Co. Fire Departments</Name>
+    <GroupName>Public Safety</GroupName>
+    <Frequency>154085000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>8000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>MURS Channel 4</Name>
+    <GroupName>MURS Radio</GroupName>
+    <Frequency>154570000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>20000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>MURS Channel 5</Name>
+    <GroupName>MURS Radio</GroupName>
+    <Frequency>154600000</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>20000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 01A</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156050000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 63A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156175000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -597,9 +596,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 65A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156275000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 06</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156300000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 66A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156325000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -615,9 +632,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 67</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156375000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 08</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156400000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 68</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156425000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -633,9 +668,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 69</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156475000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 10</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156500000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 70</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156525000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -651,9 +704,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 71</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156575000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 12</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 72</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156625000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -669,9 +740,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 73</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156675000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 14</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 74</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156725000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -705,6 +794,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 77</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156875000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 18A</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156900000</Frequency>
@@ -714,9 +812,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 78A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156925000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 19A</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>156950000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 79A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>156975000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -741,207 +857,18 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 21A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157050000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 22A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157100000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 23A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157150000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 24</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157200000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 25</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157250000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 26</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157300000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 27</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157350000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 28</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>157400000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 63A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156175000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 65A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156275000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 66A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156325000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 67</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156375000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 68</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156425000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 69</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156475000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 70</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156525000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 71</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156575000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 72</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156625000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 73</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156675000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 74</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156725000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 77</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156875000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 78A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156925000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Marine Channel 79A</Name>
-    <GroupName>Marine Radio</GroupName>
-    <Frequency>156975000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 80A</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>157025000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 21A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157050000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -957,9 +884,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 22A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157100000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 82A</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>157125000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 23A</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157150000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -975,9 +920,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 24</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157200000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 84</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>157225000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 25</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157250000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -993,9 +956,27 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 26</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157300000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 86</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>157325000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 27</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157350000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
@@ -1011,6 +992,15 @@
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
+    <Name>Marine Channel 28</Name>
+    <GroupName>Marine Radio</GroupName>
+    <Frequency>157400000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
     <Name>Marine Channel 88</Name>
     <GroupName>Marine Radio</GroupName>
     <Frequency>157425000</Frequency>
@@ -1018,66 +1008,65 @@
     <Shift>0</Shift>
     <FilterBandwidth>12000</FilterBandwidth>
   </MemoryEntry>
-
-
- 
-
-
-<MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>MURS Channel 1</Name>
-    <GroupName>MURS Radio</GroupName>
-    <Frequency>151820000</Frequency>
+    <Name>NOAA Weather Radio Channel 1</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162400000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
+    <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>MURS Channel 2</Name>
-    <GroupName>MURS Radio</GroupName>
-    <Frequency>151880000</Frequency>
+    <Name>NOAA Weather Radio Channel 2</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162425000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
+    <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>MURS Channel 3</Name>
-    <GroupName>MURS Radio</GroupName>
-    <Frequency>151940000</Frequency>
+    <Name>NOAA Weather Radio Channel 3</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162450000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>12000</FilterBandwidth>
+    <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>MURS Channel 4</Name>
-    <GroupName>MURS Radio</GroupName>
-    <Frequency>154570000</Frequency>
-    <DetectorType>WFM</DetectorType>
+    <Name>NOAA Weather Radio Channel 4</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162475000</Frequency>
+    <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>20000</FilterBandwidth>
+    <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>MURS Channel 5</Name>
-    <GroupName>MURS Radio</GroupName>
-    <Frequency>154600000</Frequency>
-    <DetectorType>WFM</DetectorType>
+    <Name>NOAA Weather Radio Channel 5</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162500000</Frequency>
+    <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
-    <FilterBandwidth>20000</FilterBandwidth>
-  </MemoryEntry> 
-  
-
-
-
-
-<MemoryEntry>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
     <IsFavourite>false</IsFavourite>
-    <Name>Amateur Radio - 2m Calling Frequency</Name>
-    <GroupName>Amateur Radio</GroupName>
-    <Frequency>146520000</Frequency>
+    <Name>NOAA Weather Radio Channel 6</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162525000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>NOAA Weather Radio Channel 7</Name>
+    <GroupName>NOAA Weather Radio</GroupName>
+    <Frequency>162550000</Frequency>
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>10000</FilterBandwidth>
@@ -1092,153 +1081,6 @@
     <FilterBandwidth>10000</FilterBandwidth>
   </MemoryEntry>
   <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Amateur Radio - APRS</Name>
-    <GroupName>Amateur Radio</GroupName>
-    <Frequency>144390000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-<MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Amateur Radio - 10m Calling Frequency</Name>
-    <GroupName>Amateur Radio</GroupName>
-    <Frequency>28400000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Amateur Radio - 6m Calling Frequency</Name>
-    <GroupName>Amateur Radio</GroupName>
-    <Frequency>52050000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-
-
-
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Air Band - ATIS</Name>
-    <GroupName>Air Band</GroupName>
-    <Frequency>128800000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Air Band - Tower</Name>
-    <GroupName>Air Band</GroupName>
-    <Frequency>118700000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>Air Band - Ground</Name>
-    <GroupName>Air Band</GroupName>
-    <Frequency>121900000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-  
- 
- <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>NOAA 19</Name>
-    <GroupName>Misc</GroupName>
-    <Frequency>137100000</Frequency>
-    <DetectorType>WFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>50010</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>NOAA 15</Name>
-    <GroupName>Misc</GroupName>
-    <Frequency>137620000</Frequency>
-    <DetectorType>WFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>50010</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>NOAA 18</Name>
-    <GroupName>Misc</GroupName>
-    <Frequency>137912500</Frequency>
-    <DetectorType>WFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>50010</FilterBandwidth>
-  </MemoryEntry>
-
-
- 
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>KBRK 1430 AM</Name>
-    <GroupName>AM Radio Stations</GroupName>
-    <Frequency>1430000</Frequency>
-    <DetectorType>AM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>10000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>KBRK-FM 93.7 FM</Name>
-    <GroupName>FM Radio Stations</GroupName>
-    <Frequency>93700000</Frequency>
-    <DetectorType>WFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>200000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>false</IsFavourite>
-    <Name>KSDJ-FM 90.7 FM</Name>
-    <GroupName>FM Radio Stations</GroupName>
-    <Frequency>90700000</Frequency>
-    <DetectorType>WFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>200000</FilterBandwidth>
-  </MemoryEntry>
-  
-  
-  
-  
- <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Brooking Amateur Radio Club</Name>
-    <GroupName>Amateur Radio</GroupName>
-    <Frequency>146940700</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Brookings Fire Dept.</Name>
-    <GroupName>Public Safety</GroupName>
-    <Frequency>154025000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-  <MemoryEntry>
-    <IsFavourite>true</IsFavourite>
-    <Name>Brookings Co. Fire Departments</Name>
-    <GroupName>Public Safety</GroupName>
-    <Frequency>154085000</Frequency>
-    <DetectorType>NFM</DetectorType>
-    <Shift>0</Shift>
-    <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>
-<MemoryEntry>
     <IsFavourite>true</IsFavourite>
     <Name>Brookings Police</Name>
     <GroupName>Public Safety</GroupName>
@@ -1246,7 +1088,459 @@
     <DetectorType>NFM</DetectorType>
     <Shift>0</Shift>
     <FilterBandwidth>8000</FilterBandwidth>
-  </MemoryEntry>  
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 15</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 1</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 16</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462575000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 2</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462575000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 17</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 3</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462600000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 18</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462625000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 4</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462625000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 19</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462650000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 5</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462650000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 20</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462675000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 6</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462675000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 21</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 7</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462700000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Channel 8</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462725000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>GMRS Repeater 22</Name>
+    <GroupName>GMRS Frequencies</GroupName>
+    <Frequency>462725000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>12000</FilterBandwidth>
+  </MemoryEntry>
+  
+  
+  
+  
+  
+  
+  
+
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>BBC World Service</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>5975000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Radio Australia</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>9580000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Voice of America</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>15580000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Radio Havana Cuba</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>6000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>China Radio International</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>9570000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Radio France International</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>11995000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>NHK World Radio Japan</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>11705000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Deutsche Welle</Name>
+    <GroupName>Shortwave Radio</GroupName>
+    <Frequency>9800000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+
+
+
+
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWV 2.5 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>2500000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWV 5 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>5000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWV 10 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>10000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWV 15 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>15000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWV 20 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>20000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWVH 2.5 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>2500000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWVH 5 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>5000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWVH 10 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>10000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>WWVH 15 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>15000000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CHU 3.33 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>3330000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CHU 7.85 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>7850000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>CHU 14.67 MHz</Name>
+    <GroupName>Time Code Stations</GroupName>
+    <Frequency>14670000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+
+
+
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Boston Weather Fax - 4.3175 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>4317500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Boston Weather Fax - 6.4585 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>6458500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Boston Weather Fax - 8.680 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>8680000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Boston Weather Fax - 12.748 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>12748000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Boston Weather Fax - 13.860 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>13860000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Honolulu Weather Fax - 11.088 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>11088000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>New Orleans Weather Fax - 4.3175 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>4317500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>New Orleans Weather Fax - 8.682 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>8682000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Pt. Reyes Weather Fax - 4.3175 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>4317500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Pt. Reyes Weather Fax - 8.682 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>8682000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Pt. Reyes Weather Fax - 12.788 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>12788000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>Pt. Reyes Weather Fax - 17.8925 MHz</Name>
+    <GroupName>Weather Fax</GroupName>
+    <Frequency>17892500</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3000</FilterBandwidth>
+  </MemoryEntry>
+  
+  
+  
+  
+  
   
   
 </ArrayOfMemoryEntry>
